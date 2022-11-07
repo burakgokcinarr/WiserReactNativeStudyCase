@@ -58,7 +58,7 @@ export const CardStyles = StyleSheet.create({
     postImage: {
         width: windowWidth-20,
         height: 220,
-        resizeMode: 'strect'
+        resizeMode: 'stretch'
     },
     postImageSpotify: {
         width: windowWidth/2,
